@@ -25,13 +25,6 @@ I'm a Senior Product Designer based in Dhaka with 5+ years of experience designi
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center" style="display: flex;">
-  <img src="https://github-readme-stats.vercel.app/api?username=arifalislam&show_icons=true&theme=dracula&hide_border=true" alt="GitHub Stats" />
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=arifalislam&theme=dracula&hide_border=true" alt="GitHub Streak" />
-</p>
-
 
 ---
 
@@ -56,7 +49,7 @@ I'm a Senior Product Designer based in Dhaka with 5+ years of experience designi
 **Tools:** Figma · Design Tokens · Storybook
 
 ### 🔹 SaaS Dashboard Redesign — Analytics Platform
-Redesigned user dashboard reducing onboarding drop-off by 40%.
+Redesigned user dashboard, reducing onboarding drop-off by 40%.
 **Tools:** Figma · Maze · FigJam
 
 ### 🔹 Mobile/Web App — Productivity Tool
@@ -94,7 +87,7 @@ Complete UX/UI overhaul focusing on accessibility and performance.
 
 <p align="center">
   <a href="mailto:arifalislam642@gmail.com"><img src="https://img.shields.io/badge/📧%20Email-arifalislam642@gmail.com-6366F1?style=flat-square" /></a>
-  <a href="https://arifalislam.github.io"><img src="https://img.shields.io/badge/🌐%20Portfolio-Visit-6366F1?style=flat-square" /></a>
+  <a href="https://arifux.github.io"><img src="https://img.shields.io/badge/🌐%20Portfolio-Visit-6366F1?style=flat-square" /></a>
   <a href="https://www.linkedin.com/in/mr-arif"><img src="https://img.shields.io/badge/🔗%20LinkedIn-Connect-0A66C2?style=flat-square" /></a>
 </p>
 
