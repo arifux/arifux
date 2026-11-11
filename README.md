@@ -5,14 +5,6 @@
   <img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&size=20&pause=1000&color=6366F1&center=true&vCenter=true&width=600&lines=Designing+scalable+SaaS+products;Building+accessible+design+systems;Prototyping+with+purpose" alt="Typing SVG" />
 </p>
 
-<p align="center">
-  <a href="http://arifalislam.github.io/"><img src="https://img.shields.io/badge/Portfolio-View-6366F1?style=for-the-badge&logo=figma&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/mr-arif/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:arifalislam642@gmail.com"><img src="https://img.shields.io/badge/Email-Say%20Hi-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-</p>
-
----
-
 ## 🧭 About Me
 
 I'm a Senior Product Designer based in Dhaka with 5+ years of experience designing SaaS products used by real teams — not just wireframes on a board. I care about the details that make a product delightful.
