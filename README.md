@@ -5,6 +5,15 @@
 </p>
 
 
+## 🎓 🎨 What I Do
+
+- ✨ **User Experience Design** — UX research, wireframing, interaction design
+- 🎨 **Visual Design** — Branding, typography, color systems, design systems
+- ♿ **Accessibility** — WCAG 2.1 AA/AAA compliance, inclusive design
+- 📱 **Product Strategy** — User-centered approach, design thinking
+- 🔄 **Cross-functional Collaboration** — Working with engineers, PMs, stakeholders
+
+
 
 ## 🧭 About Me
 
@@ -16,22 +25,7 @@ I'm a Senior Product Designer based in Dhaka with 5+ years of experience designi
 - 🛠️ Also building small **software utilities** on the side (Python, automation)
 - 📍 Based in Dhaka, Bangladesh
 
----
 
-
----
-
-## 🎨 What I Do
-
-| Area | Details |
-|---|---|
-| **Product Design** | End-to-end UX/UI for SaaS platforms — flows, IA, interaction design |
-| **Design Systems** | Design tokens, component libraries, documentation, cross-team adoption |
-| **Prototyping** | High-fidelity interactive prototypes for user testing & stakeholder buy-in |
-| **Accessibility** | WCAG-aligned design reviews, inclusive design practices |
-| **User Research** | Interviews, usability testing, synthesis into actionable insights |
-
----
 
 ## 🧩 Featured Projects
 
@@ -46,7 +40,7 @@ Redesigned user dashboard, reducing onboarding drop-off by 40%.
 **Tools:** Figma · Maze · FigJam
 
 ### 🔹 Mobile/Web App — Productivity Tool
-Complete UX/UI overhaul focusing on accessibility and performance.
+Completed a UX/UI overhaul focused on accessibility and performance.
 **Tools:** Figma · Principle · Notion
 
 ---
@@ -66,15 +60,6 @@ Complete UX/UI overhaul focusing on accessibility and performance.
 
 ---
 
-## 🎓 Skills & Expertise
-
-- ✨ **User Experience Design** — UX research, wireframing, interaction design
-- 🎨 **Visual Design** — Branding, typography, color systems, design systems
-- ♿ **Accessibility** — WCAG 2.1 AA/AAA compliance, inclusive design
-- 📱 **Product Strategy** — User-centered approach, design thinking
-- 🔄 **Cross-functional Collaboration** — Working with engineers, PMs, stakeholders
-
----
 
 ## 📫 Let's Connect
 
