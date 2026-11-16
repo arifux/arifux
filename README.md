@@ -5,15 +5,6 @@
 </p>
 
 
-## 🎓 🎨 What I Do
-
-- ✨ **User Experience Design** — UX research, wireframing, interaction design
-- 🎨 **Visual Design** — Branding, typography, color systems, design systems
-- ♿ **Accessibility** — WCAG 2.1 AA/AAA compliance, inclusive design
-- 📱 **Product Strategy** — User-centered approach, design thinking
-- 🔄 **Cross-functional Collaboration** — Working with engineers, PMs, stakeholders
-
-
 
 ## 🧭 About Me
 
@@ -24,6 +15,7 @@ I'm a Senior Product Designer based in Dhaka with 5+ years of experience designi
 - 🤖 Exploring how **AI tools** can multiply a designer's output, not replace it
 - 🛠️ Also building small **software utilities** on the side (Python, automation)
 - 📍 Based in Dhaka, Bangladesh
+
 
 
 
@@ -43,7 +35,7 @@ Redesigned user dashboard, reducing onboarding drop-off by 40%.
 Completed a UX/UI overhaul focused on accessibility and performance.
 **Tools:** Figma · Principle · Notion
 
----
+
 
 ## 🛠️ Tools & Stack
 
@@ -58,7 +50,16 @@ Completed a UX/UI overhaul focused on accessibility and performance.
   <img src="https://img.shields.io/badge/Design%20Systems-Tokens-9333EA?style=flat-square" />
 </p>
 
----
+
+
+## 🎓 🎨 What I Do
+
+- ✨ **User Experience Design** — UX research, wireframing, interaction design
+- 🎨 **Visual Design** — Branding, typography, color systems, design systems
+- ♿ **Accessibility** — WCAG 2.1 AA/AAA compliance, inclusive design
+- 📱 **Product Strategy** — User-centered approach, design thinking
+- 🔄 **Cross-functional Collaboration** — Working with engineers, PMs, stakeholders
+
 
 
 ## 📫 Let's Connect
